@@ -4,13 +4,19 @@
 
 body {
   margin: 0;
-  font-family: Gabarito;
+
+  /* font-family: Gabarito; */
   letter-spacing: 0.05rem;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+  font-family:
+    source-code-pro,
+    Menlo,
+    Monaco,
+    Consolas,
+    "Courier New",
     monospace;
 }
